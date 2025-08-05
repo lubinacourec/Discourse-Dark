@@ -4,9 +4,9 @@
 @description  Darken Discourse forums
 @namespace    StylishThemes
 @author       StylishThemes
-@homepageURL  https://github.com/StylishThemes/Discourse-Dark
-@supportURL   https://github.com/StylishThemes/Discourse-Dark/issues
-@updateURL    https://raw.githubusercontent.com/StylishThemes/Discourse-Dark/master/discourse-dark.user.css
+@homepageURL  https://github.com/lubinacourec/Discourse-Dark
+@supportURL   https://github.com/lubinacourec/Discourse-Dark/issues
+@updateURL    https://raw.githubusercontent.com/lubinacourec/Discourse-Dark/master/discourse-dark.user.css
 @license      CC-BY-SA-4.0
 @advanced color main-color "Main color" #07c
 @advanced dropdown bg-choice "Background" {
